@@ -1,0 +1,1 @@
+## Chain of Responsibility Pattern example in TypeScript
